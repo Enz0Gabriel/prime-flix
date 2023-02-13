@@ -12,7 +12,7 @@ Construindo uma plataforma de filmes com ReactJS. Esse projeto foi uma ampliaç�
 * **[React](https://pt-br.reactjs.org/)**
 * **[React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar)**
 * **[React Dom](https://www.npmjs.com/package/react-dom)**
-* **[React Lazy Load Image Component](https://www.npmjs.com/package/react-lazy-load-image-component)**
+* **[React Lazy Load Image Component](https://www.npmjs.com/package/react-lazy-load-image-component)**         
 
 ## 🔥 Executando a aplicação no ambiente local
 
