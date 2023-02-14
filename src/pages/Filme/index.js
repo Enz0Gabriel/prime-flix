@@ -29,7 +29,7 @@ function Filme(){
             })
         }
 
-        loadFilme();
+        loadFilme();    
 
 
         return () => {
