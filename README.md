@@ -4,6 +4,10 @@
 
 Construindo uma plataforma de filmes com ReactJS. Este projeto foi uma ampliação da aula ministrada por **Matheus Fraga** no treinamento **Full Stack**.
 
+## Contato 
+- Linkedin: [Linkedin](https://www.linkedin.com/in/enzo-gabriel-60963125b/)</br> 
+- Github: [Github](https://github.com/Enz0Gabriel)
+
 ## PrimeFlix App React
 Este projeto foi desenvolvido com o intuito de colocar em prática o conhecimento adquirido ao longo dos meus estudos.</br>
 O PrimeFlix lista os Top 10 filmes atuais em cartaz e possui um sistema de interação com o usuário.
@@ -31,12 +35,6 @@ Foram utilizadas as seguintes tecnologias para desenvolver a aplicação:
 - Package Manager | **npm**
 - Libs | **react-router-dom** | **toastify** | **Axios**
 - API | **TMDB**
-
----
-
-## Contato 
-- Linkedin: [Linkedin](https://www.linkedin.com/in/enzo-gabriel-60963125b/)</br> 
-- Github: [Github](https://github.com/Enz0Gabriel)
 
 ---
 
