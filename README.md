@@ -57,5 +57,3 @@ $ npm start
 ## Contato 
 - Linkedin: [Linkedin](https://www.linkedin.com/in/enzo-gabriel-60963125b/)</br> 
 - Github: [Github](https://github.com/Enz0Gabriel)
-
----
