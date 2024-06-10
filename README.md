@@ -2,54 +2,60 @@
 
 ![Preview](https://user-images.githubusercontent.com/124924248/218589512-6dba7598-8354-45a7-8fe5-2c9d51bdc2d5.png)
 
-Construindo uma plataforma de filmes com ReactJS. Esse projeto foi uma ampliação da aula ministrada por **Matheus Fraga** no treinamento **Full Stack**.
+Construindo uma plataforma de filmes com ReactJS. Este projeto foi uma ampliação da aula ministrada por **Matheus Fraga** no treinamento **Full Stack**.
 
-## 🚀 Recursos utilizados
+## PrimeFlix App React
+Este projeto foi desenvolvido com o intuito de colocar em prática o conhecimento adquirido ao longo dos meus estudos.</br>
+O PrimeFlix lista os Top 10 filmes atuais em cartaz e possui um sistema de interação com o usuário.
 
-* **[API The Movie Database](https://developers.themoviedb.org/3/getting-started)**
-* **[Axios](https://www.npmjs.com/package/axios)**
-* **[Font Awesome](https://fontawesome.com/v5/docs/web/use-with/react)**
-* **[React](https://pt-br.reactjs.org/)**
-* **[React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar)**
-* **[React Dom](https://www.npmjs.com/package/react-dom)**
-* **[React Lazy Load Image Component](https://www.npmjs.com/package/react-lazy-load-image-component)**         
+## 🏷️ Sobre
+O PrimeFlix é uma aplicação responsiva com navegação otimizada por meio de rotas.</br>
+O projeto consome uma API open source e possibilita as seguintes interações:
 
-## 🔥 Executando a aplicação no ambiente local
+### Navegação e informações dos filmes:
+- Acesso às informações detalhadas de cada filme selecionado.
+- Opção de salvar e acessar o trailer do filme escolhido.
 
-Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
+### Favoritos:
+- Acesso aos detalhes e informações dos filmes favoritos (armazenamento no LocalStorage).
+- Opção de excluir filmes da lista de favoritos.
+- Após a lista ficar vazia, uma tela sugere navegar de volta para a Home da aplicação.
 
-### 🌀 Começando... 
+---
 
-Para começar, você deve simplesmente clonar o repositório do projeto na sua máquina e instalar as dependências.
+## 🛠️ Tecnologias e serviços utilizados
+Foram utilizadas as seguintes tecnologias para desenvolver a aplicação:
 
-Abra o cmd (caso esteja utilizando o Windows) navegue até o local onde você clonou o projeto
+- **React.Js** | **Node.Js** | **JavaScript** | **Html5-Css3**
+- Hooks | **useState** | **useEffect**
+- Package Manager | **npm**
+- Libs | **react-router-dom** | **toastify** | **Axios**
+- API | **TMDB**
 
-```
-cd "C:\Users\NomeDoComputador\Documents\cloneprojeto"
-```
+---
 
-Depois, quando estiver na pasta do projeto, basta digitar no cmd a seguinte instrução: **(dentro da pasta do projeto clonado)**
+## 🗂️ Como baixar e iniciar o projeto
 
-```
-npm install
-```
+```bash
+# Clonar o projeto
+$ git clone https://github.com/Danielcsxx/PrimeFlix.git
 
-Ao digitar a instrução acima, automaticamente ele irá baixar todas as dependências listadas e definidas no arquivo package.json:
+# Entrar no diretório
+$ cd PrimeFlix
 
-* `node_modules` - que contêm os packages do npm que precisará para o projeto.
+# Instalar as dependências
+$ npm install
+$ npm install react-router-dom
+$ npm install axios
+$ npm install react-toastify
 
-#### 💨 Executando a aplicação 
+# Iniciar a aplicação
+$ npm start
 
-No diretório do projeto execute o camando abaixo para executar o projeto:
+---
 
-```
-> npm start
-```
+## Contato 
+- Linkedin: [Linkedin](https://www.linkedin.com/in/enzo-gabriel-60963125b/)</br> 
+- Github: [Github](https://github.com/Enz0Gabriel)
 
-## 🚩 Tenho dúvidas... O que fazer? 
-
-Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Enz0Gabriel/prime-flix/issues)**.
-
-----------
-
-Desenvolvido por Enzo 👋  [ Entrar em contato!](https://www.linkedin.com/in/enzo-gabriel-60963125b/)
+---
