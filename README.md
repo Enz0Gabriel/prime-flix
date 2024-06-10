@@ -34,6 +34,12 @@ Foram utilizadas as seguintes tecnologias para desenvolver a aplicação:
 
 ---
 
+## Contato 
+- Linkedin: [Linkedin](https://www.linkedin.com/in/enzo-gabriel-60963125b/)</br> 
+- Github: [Github](https://github.com/Enz0Gabriel)
+
+---
+
 ## 🗂️ Como baixar e iniciar o projeto
 
 ```bash
@@ -51,9 +57,3 @@ $ npm install react-toastify
 
 # Iniciar a aplicação
 $ npm start
-
----
-
-## Contato 
-- Linkedin: [Linkedin](https://www.linkedin.com/in/enzo-gabriel-60963125b/)</br> 
-- Github: [Github](https://github.com/Enz0Gabriel)
