@@ -1,5 +1,6 @@
 
 .not-found{
+    font-family: sans-serif;
     width: 100%;
     height: calc(100vh - 60px);
     display: flex;
@@ -19,4 +20,9 @@
     padding: 10px;
     margin-top: 14px;
     border-radius: 8px;
+    transition: all 0.5s;
+}
+
+.not-found a:hover{    
+    color: #000;
 }
