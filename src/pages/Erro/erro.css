@@ -13,16 +13,16 @@
     font-size: 120px;
 }
 
-.not-found a{
+.not-found a {
     text-decoration: none;
     background-color: #116feb;
-    color: #FFF;
-    padding: 10px;
-    margin-top: 14px;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 20px;
     border-radius: 8px;
-    transition: all 0.5s;
+    transition: background-color 0.3s ease;
 }
 
-.not-found a:hover{    
-    color: #000;
+.not-found a:hover {
+    background-color: #0b5496;
 }

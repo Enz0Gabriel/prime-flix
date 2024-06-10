@@ -37,3 +37,17 @@
     color: #116feb;
     margin-right: 14px;
 }
+
+.meus-filmes button {
+    background-color: #116feb;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.meus-filmes button:hover {
+    background-color: #0b5496;
+}

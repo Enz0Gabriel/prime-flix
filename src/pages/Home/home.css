@@ -39,4 +39,9 @@
     color: #FFF;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+.lista-filmes a:hover {
+    background-color: #0b5496; /* Altera a cor de fundo no hover */
 }
