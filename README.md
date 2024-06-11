@@ -23,7 +23,7 @@ O projeto consome uma API open source e possibilita as seguintes interações:
 ### Favoritos:
 - Acesso aos detalhes e informações dos filmes favoritos (armazenamento no LocalStorage).
 - Opção de excluir filmes da lista de favoritos.
-- Após a lista ficar vazia, uma tela sugere navegar de volta para a Home da aplicação.
+- Após a lista ficar vazia, uma tela sugere navegar de volta para a Home da aplicação
 
 ---
 
